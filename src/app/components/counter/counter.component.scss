@@ -1,0 +1,32 @@
+.counter-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.counter {
+    display: block;
+    text-align: center;
+    font-weight: 800
+}
+
+.buttons .btn-increase {
+    background-color: #3DBEBB;
+    padding: 15px 32px;
+    font-size: 15px;
+    border-radius: 10px;
+    border: 1px solid #3DBEBB;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.buttons .btn-decrease {
+    background-color: #F7A301;
+    padding: 15px 32px;
+    font-size: 15px;
+    border-radius: 10px;
+    border: 1px solid #F7A301;
+    margin: 5px;
+    cursor: pointer;
+}
